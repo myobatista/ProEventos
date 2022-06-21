@@ -84,3 +84,13 @@ C:\Projetos_FullStack\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEve
 C:\Projetos_FullStack\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ref\ProEventos.API.dll
 C:\Projetos_FullStack\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.pdb
 C:\Projetos_FullStack\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.genruntimeconfig.cache
+C:\Projetos_FullStack\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Application.dll
+C:\Projetos_FullStack\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\Projetos_FullStack\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\Projetos_FullStack\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Application.pdb
+C:\Projetos_FullStack\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Persistence.pdb
+C:\Projetos_FullStack\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\Projetos_FullStack\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Projetos_FullStack\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Projetos_FullStack\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Projetos_FullStack\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
